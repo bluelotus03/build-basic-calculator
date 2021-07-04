@@ -13,7 +13,7 @@ def calculationTime():
   
   # Takes user input for 2 numbers and an operator 
   num1 = float(input("\n\nEnter a number: "))
-  operator = input("\nEnter the operation: ")
+  operator = input("\nEnter the operation (+|-|/|*): ")
   num2 = float(input("\nEnter another number: "))
 
   # Perform the correct operation based on user's input
